@@ -1,0 +1,14 @@
+{
+  "name": "boxbox-store",
+  "private": true,
+  "description": "E-commerce de merch de Fórmula 1 — React + Node/Express + SQLite",
+  "scripts": {
+    "install:all": "npm install && npm install --prefix backend && npm install --prefix frontend",
+    "dev": "concurrently -n api,web -c red,yellow \"npm run dev --prefix backend\" \"npm run dev --prefix frontend\"",
+    "test": "npm test --prefix backend",
+    "build": "npm run build --prefix frontend"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}

@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="1320" viewBox="0 0 1900 1320">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f4f4"/><stop offset="1" stop-color="#8e8e8e"/></linearGradient>
+  <style>
+    text { font-family: Tahoma, Segoe UI, Arial, sans-serif; }
+    .t { font-size: 17px; text-anchor: middle; fill: #111; }
+    .et { font-size: 20px; font-weight: 700; }
+    .rt { font-size: 16px; font-style: italic; }
+    .ln { stroke: #333; stroke-width: 1.2; }
+    .ent { fill: url(#g); stroke: #444; stroke-width: 1.4; }
+    .at { fill: #fffdf8; stroke: #333; stroke-width: 1.2; }
+    .pk { fill: #fffdf8; stroke: #e10600; stroke-width: 2; }
+    .rel { fill: #fbeeda; stroke: #555; stroke-width: 1.2; }
+    .card { font-size: 20px; font-weight: 700; fill: #111; text-anchor: middle; }
+    .leg { fill: #fff; stroke: #bbb; }
+    .lt { font-size: 15px; font-weight: 700; }
+    .lx { font-size: 13px; fill: #222; }
+  </style>
+</defs>
+<rect width="1900" height="1320" fill="#fff"/>
+<rect x="14" y="14" width="1872" height="1292" fill="none" stroke="#888"/>
+<path d="M14 14 H392 V34 L380 44 H14 Z" fill="#fff" stroke="#888"/>
+<text x="24" y="34" font-size="14" font-weight="700" fill="#222">erd Diagrama Entidad-Relación — BOX BOX Store</text>
+<line x1="882" y1="225" x2="882" y2="95" class="ln"/>
+<line x1="882" y1="225" x2="750.4633658905012" y2="106.56388267448209" class="ln"/>
+<line x1="882" y1="225" x2="675.7876974950086" y2="206.95876125123482" class="ln"/>
+<line x1="882" y1="225" x2="682.6554712681407" y2="305.5404175844211" class="ln"/>
+<line x1="882" y1="225" x2="1026.913240968092" y2="94.51953176002266" class="ln"/>
+<line x1="882" y1="225" x2="1115.7540499619545" y2="162.36579108518998" class="ln"/>
+<line x1="882" y1="225" x2="765.0243196881249" y2="374.7220431852772" class="ln"/>
+<line x1="1520" y1="225" x2="1520" y2="95" class="ln"/>
+<line x1="1520" y1="225" x2="1673.2864964698456" y2="136.49999999999991" class="ln"/>
+<line x1="1520" y1="225" x2="1678.4826488925523" y2="316.5" class="ln"/>
+<line x1="882" y1="603" x2="771.5934499507883" y2="480.38110379623" class="ln"/>
+<line x1="882" y1="603" x2="992.4065500492115" y2="480.3811037962299" class="ln"/>
+<line x1="882" y1="603" x2="715.1229049496628" y2="691.7301253665335" class="ln"/>
+<line x1="882" y1="603" x2="789.8692189405275" y2="800.5750975739898" class="ln"/>
+<line x1="882" y1="603" x2="955.0482857161028" y2="783.8008516405235" class="ln"/>
+<line x1="882" y1="603" x2="1048.8770950503372" y2="691.7301253665333" class="ln"/>
+<line x1="1520" y1="603" x2="1520" y2="473" class="ln"/>
+<line x1="1520" y1="603" x2="1379.5456279847724" y2="476.5343153981758" class="ln"/>
+<line x1="1520" y1="603" x2="1660.4543720152276" y2="476.5343153981758" class="ln"/>
+<line x1="1520" y1="603" x2="1768" y2="603" class="ln"/>
+<line x1="1520" y1="603" x2="1664.913240968092" y2="733.4804682399774" class="ln"/>
+<line x1="1520" y1="603" x2="1520" y2="739" class="ln"/>
+<line x1="1520" y1="603" x2="1379.5456279847726" y2="729.4656846018243" class="ln"/>
+<line x1="325" y1="603" x2="325" y2="473" class="ln"/>
+<line x1="325" y1="603" x2="184.5456279847725" y2="476.5343153981758" class="ln"/>
+<line x1="325" y1="603" x2="469.9132409680919" y2="472.5195317600227" class="ln"/>
+<line x1="325" y1="603" x2="118" y2="603" class="ln"/>
+<line x1="325" y1="603" x2="180.2176002505132" y2="724.486858230756" class="ln"/>
+<line x1="325" y1="603" x2="309.5734335336645" y2="779.3264615622389" class="ln"/>
+<line x1="742" y1="992" x2="776.1641139535328" y2="864.497790929843" class="ln"/>
+<line x1="742" y1="992" x2="910.8749537379655" y2="894.4999999999999" class="ln"/>
+<line x1="742" y1="992" x2="922.8008516405235" y2="1065.0482857161028" class="ln"/>
+<line x1="742" y1="992" x2="808.6649619155965" y2="1117.3785581859677" class="ln"/>
+<line x1="742" y1="992" x2="772.3397360092944" y2="1207.8784389856623" class="ln"/>
+<line x1="742" y1="992" x2="696.2654848325078" y2="1132.7563644116826" class="ln"/>
+<line x1="742" y1="992" x2="563.4248543449999" y2="1117.039663124528" class="ln"/>
+<line x1="742" y1="992" x2="490.8592851648423" y2="1059.2929517266555" class="ln"/>
+<line x1="197" y1="992" x2="196.99999999999997" y2="862" class="ln"/>
+<line x1="197" y1="992" x2="271" y2="1120.1717597600968" class="ln"/>
+<line x1="197" y1="992" x2="123.00000000000003" y2="1120.1717597600968" class="ln"/>
+<line x1="1334" y1="992" x2="1334" y2="862" class="ln"/>
+<line x1="1334" y1="992" x2="1503.5644731678212" y2="873.2696776753334" class="ln"/>
+<line x1="1334" y1="992" x2="1533.946646041837" y2="1045.5755423362218" class="ln"/>
+<line x1="1334" y1="992" x2="1408" y2="1120.1717597600968" class="ln"/>
+<line x1="1334" y1="992" x2="1260" y2="1120.1717597600968" class="ln"/>
+<line x1="1520" y1="225" x2="882" y2="225" class="ln"/>
+<line x1="882" y1="225" x2="882" y2="603" class="ln"/>
+<line x1="882" y1="603" x2="325" y2="603" class="ln"/>
+<line x1="882" y1="603" x2="1520" y2="603" class="ln"/>
+<line x1="742" y1="992" x2="325" y2="603" class="ln"/>
+<line x1="197" y1="992" x2="742" y2="992" class="ln"/>
+<line x1="1334" y1="992" x2="742" y2="992" class="ln"/>
+<ellipse cx="882" cy="95" rx="63.6" ry="26" class="pk"/><text x="882" y="101" class="t">id_usuario</text>
+<ellipse cx="750.4633658905012" cy="106.56388267448209" rx="52" ry="26" class="at"/><text x="750.4633658905012" y="112.56388267448209" class="t">nombre</text>
+<ellipse cx="675.7876974950086" cy="206.95876125123482" rx="54.080000000000005" ry="26" class="at"/><text x="675.7876974950086" y="212.95876125123482" class="t">apellido</text>
+<ellipse cx="682.6554712681407" cy="305.5404175844211" rx="52" ry="26" class="at"/><text x="682.6554712681407" y="311.5404175844211" class="t">email</text>
+<ellipse cx="1026.913240968092" cy="94.51953176002266" rx="77.88" ry="26" class="at"/><text x="1026.913240968092" y="100.51953176002266" class="t">password_hash</text>
+<ellipse cx="1115.7540499619545" cy="162.36579108518998" rx="52" ry="26" class="at"/><text x="1115.7540499619545" y="168.36579108518998" class="t">activo</text>
+<ellipse cx="765.0243196881249" cy="374.7220431852772" rx="52" ry="26" class="at"/><text x="765.0243196881249" y="380.7220431852772" class="t">id_rol</text>
+<ellipse cx="1520" cy="95" rx="52" ry="26" class="pk"/><text x="1520" y="101" class="t">id_rol</text>
+<ellipse cx="1673.2864964698456" cy="136.49999999999991" rx="52" ry="26" class="at"/><text x="1673.2864964698456" y="142.49999999999991" class="t">nombre</text>
+<ellipse cx="1678.4826488925523" cy="316.5" rx="68.36000000000001" ry="26" class="at"/><text x="1678.4826488925523" y="322.5" class="t">descripcion</text>
+<ellipse cx="771.5934499507883" cy="480.38110379623" rx="58.84" ry="26" class="pk"/><text x="771.5934499507883" y="486.38110379623" class="t">id_pedido</text>
+<ellipse cx="992.4065500492115" cy="480.3811037962299" rx="52" ry="26" class="at"/><text x="992.4065500492115" y="486.3811037962299" class="t">fecha</text>
+<ellipse cx="715.1229049496628" cy="691.7301253665335" rx="63.6" ry="26" class="at"/><text x="715.1229049496628" y="697.7301253665335" class="t">id_usuario</text>
+<ellipse cx="789.8692189405275" cy="800.5750975739898" rx="87.4" ry="26" class="at"/><text x="789.8692189405275" y="806.5750975739898" class="t">direccion_envio</text>
+<ellipse cx="955.0482857161028" cy="783.8008516405235" rx="52" ry="26" class="at"/><text x="955.0482857161028" y="789.8008516405235" class="t">estado</text>
+<ellipse cx="1048.8770950503372" cy="691.7301253665333" rx="52" ry="26" class="at"/><text x="1048.8770950503372" y="697.7301253665333" class="t">total</text>
+<ellipse cx="1520" cy="473" rx="52" ry="26" class="pk"/><text x="1520" y="479" class="t">id_pago</text>
+<ellipse cx="1379.5456279847724" cy="476.5343153981758" rx="58.84" ry="26" class="at"/><text x="1379.5456279847724" y="482.5343153981758" class="t">id_pedido</text>
+<ellipse cx="1660.4543720152276" cy="476.5343153981758" rx="52" ry="26" class="at"/><text x="1660.4543720152276" y="482.5343153981758" class="t">monto</text>
+<ellipse cx="1768" cy="603" rx="77.88" ry="26" class="at"/><text x="1768" y="609" class="t">marca_tarjeta</text>
+<ellipse cx="1664.913240968092" cy="733.4804682399774" rx="54.080000000000005" ry="26" class="at"/><text x="1664.913240968092" y="739.4804682399774" class="t">ultimos4</text>
+<ellipse cx="1520" cy="739" rx="52" ry="26" class="at"/><text x="1520" y="745" class="t">cuotas</text>
+<ellipse cx="1379.5456279847726" cy="729.4656846018243" rx="52" ry="26" class="at"/><text x="1379.5456279847726" y="735.4656846018243" class="t">estado</text>
+<ellipse cx="325" cy="473" rx="63.6" ry="26" class="pk"/><text x="325" y="479" class="t">id_detalle</text>
+<ellipse cx="184.5456279847725" cy="476.5343153981758" rx="58.84" ry="26" class="at"/><text x="184.5456279847725" y="482.5343153981758" class="t">id_pedido</text>
+<ellipse cx="469.9132409680919" cy="472.5195317600227" rx="68.36000000000001" ry="26" class="at"/><text x="469.9132409680919" y="478.5195317600227" class="t">id_producto</text>
+<ellipse cx="118" cy="603" rx="54.080000000000005" ry="26" class="at"/><text x="118" y="609" class="t">cantidad</text>
+<ellipse cx="180.2176002505132" cy="724.486858230756" rx="87.4" ry="26" class="at"/><text x="180.2176002505132" y="730.486858230756" class="t">precio_unitario</text>
+<ellipse cx="309.5734335336645" cy="779.3264615622389" rx="54.080000000000005" ry="26" class="at"/><text x="309.5734335336645" y="785.3264615622389" class="t">subtotal</text>
+<ellipse cx="776.1641139535328" cy="864.497790929843" rx="68.36000000000001" ry="26" class="pk"/><text x="776.1641139535328" y="870.497790929843" class="t">id_producto</text>
+<ellipse cx="910.8749537379655" cy="894.4999999999999" rx="52" ry="26" class="at"/><text x="910.8749537379655" y="900.4999999999999" class="t">nombre</text>
+<ellipse cx="922.8008516405235" cy="1065.0482857161028" rx="52" ry="26" class="at"/><text x="922.8008516405235" y="1071.0482857161028" class="t">precio</text>
+<ellipse cx="808.6649619155965" cy="1117.3785581859677" rx="52" ry="26" class="at"/><text x="808.6649619155965" y="1123.3785581859677" class="t">stock</text>
+<ellipse cx="772.3397360092944" cy="1207.8784389856623" rx="73.12" ry="26" class="at"/><text x="772.3397360092944" y="1213.8784389856623" class="t">stock_minimo</text>
+<ellipse cx="696.2654848325078" cy="1132.7563644116826" rx="58.84" ry="26" class="at"/><text x="696.2654848325078" y="1138.7563644116826" class="t">escuderia</text>
+<ellipse cx="563.4248543449999" cy="1117.039663124528" rx="73.12" ry="26" class="at"/><text x="563.4248543449999" y="1123.039663124528" class="t">id_categoria</text>
+<ellipse cx="490.8592851648423" cy="1059.2929517266555" rx="73.12" ry="26" class="at"/><text x="490.8592851648423" y="1065.2929517266555" class="t">id_proveedor</text>
+<ellipse cx="196.99999999999997" cy="862" rx="73.12" ry="26" class="pk"/><text x="196.99999999999997" y="868" class="t">id_categoria</text>
+<ellipse cx="271" cy="1120.1717597600968" rx="52" ry="26" class="at"/><text x="271" y="1126.1717597600968" class="t">nombre</text>
+<ellipse cx="123.00000000000003" cy="1120.1717597600968" rx="68.36000000000001" ry="26" class="at"/><text x="123.00000000000003" y="1126.1717597600968" class="t">descripcion</text>
+<ellipse cx="1334" cy="862" rx="73.12" ry="26" class="pk"/><text x="1334" y="868" class="t">id_proveedor</text>
+<ellipse cx="1503.5644731678212" cy="873.2696776753334" rx="73.12" ry="26" class="at"/><text x="1503.5644731678212" y="879.2696776753334" class="t">razon_social</text>
+<ellipse cx="1533.946646041837" cy="1045.5755423362218" rx="52" ry="26" class="at"/><text x="1533.946646041837" y="1051.5755423362218" class="t">cuit</text>
+<ellipse cx="1408" cy="1120.1717597600968" rx="52" ry="26" class="at"/><text x="1408" y="1126.1717597600968" class="t">email</text>
+<ellipse cx="1260" cy="1120.1717597600968" rx="54.080000000000005" ry="26" class="at"/><text x="1260" y="1126.1717597600968" class="t">telefono</text>
+<polygon points="1141,225 1201,196 1261,225 1201,254" class="rel"/><text x="1201" y="230" class="t rt">asigna</text>
+<polygon points="822,414 882,385 942,414 882,443" class="rel"/><text x="882" y="419" class="t rt">realiza</text>
+<polygon points="543.5,603 603.5,574 663.5,603 603.5,632" class="rel"/><text x="603.5" y="608" class="t rt">contiene</text>
+<polygon points="1129.72,603 1201,574 1272.28,603 1201,632" class="rel"/><text x="1201" y="608" class="t rt">se paga con</text>
+<polygon points="473.5,797.5 533.5,768.5 593.5,797.5 533.5,826.5" class="rel"/><text x="533.5" y="802.5" class="t rt">integra</text>
+<polygon points="407.18,992 469.5,963 531.82,992 469.5,1021" class="rel"/><text x="469.5" y="997" class="t rt">clasifica</text>
+<polygon points="978,992 1038,963 1098,992 1038,1021" class="rel"/><text x="1038" y="997" class="t rt">abastece</text>
+<rect x="791" y="198" width="190" height="62" fill="#000" opacity=".18"/>
+<rect x="787" y="194" width="190" height="62" class="ent"/><text x="882" y="232" class="t et">usuarios</text>
+<rect x="1429" y="198" width="190" height="62" fill="#000" opacity=".18"/>
+<rect x="1425" y="194" width="190" height="62" class="ent"/><text x="1520" y="232" class="t et">roles</text>
+<rect x="791" y="576" width="190" height="62" fill="#000" opacity=".18"/>
+<rect x="787" y="572" width="190" height="62" class="ent"/><text x="882" y="610" class="t et">pedidos</text>
+<rect x="1429" y="576" width="190" height="62" fill="#000" opacity=".18"/>
+<rect x="1425" y="572" width="190" height="62" class="ent"/><text x="1520" y="610" class="t et">pagos</text>
+<rect x="234" y="576" width="190" height="62" fill="#000" opacity=".18"/>
+<rect x="230" y="572" width="190" height="62" class="ent"/><text x="325" y="610" class="t et">detalle_pedido</text>
+<rect x="651" y="965" width="190" height="62" fill="#000" opacity=".18"/>
+<rect x="647" y="961" width="190" height="62" class="ent"/><text x="742" y="999" class="t et">productos</text>
+<rect x="106" y="965" width="190" height="62" fill="#000" opacity=".18"/>
+<rect x="102" y="961" width="190" height="62" class="ent"/><text x="197" y="999" class="t et">categorias</text>
+<rect x="1243" y="965" width="190" height="62" fill="#000" opacity=".18"/>
+<rect x="1239" y="961" width="190" height="62" class="ent"/><text x="1334" y="999" class="t et">proveedores</text>
+<text x="1411" y="218" class="card">1</text>
+<text x="991" y="242" class="card">*</text>
+<text x="870" y="275" class="card">1</text>
+<text x="894" y="563" class="card">*</text>
+<text x="773" y="596" class="card">1</text>
+<text x="434" y="620" class="card">*</text>
+<text x="991" y="620" class="card">1</text>
+<text x="1411" y="596" class="card">1</text>
+<text x="706.7169845016637" y="947.6754066936654" class="card">1</text>
+<text x="360.28301549833634" y="657.3245933063346" class="card">*</text>
+<text x="306" y="1009" class="card">1</text>
+<text x="633" y="985" class="card">*</text>
+<text x="1225" y="985" class="card">1</text>
+<text x="851" y="1009" class="card">*</text>
+
+<g transform="translate(46 70)">
+  <rect width="330" height="232" class="leg"/>
+  <text x="16" y="28" class="lt">Simbología</text>
+  <rect x="16" y="46" width="70" height="30" class="ent"/><text x="104" y="66" class="lx">Entidad</text>
+  <ellipse cx="51" cy="98" rx="35" ry="15" class="at"/><text x="104" y="103" class="lx">Atributo</text>
+  <ellipse cx="51" cy="134" rx="35" ry="15" class="pk"/><text x="104" y="139" class="lx">Atributo clave (PK)</text>
+  <polygon points="16,170 51,155 86,170 51,185" class="rel"/><text x="104" y="175" class="lx">Relación</text>
+  <text x="51" y="214" class="card" text-anchor="middle">1  /  *</text><text x="104" y="213" class="lx">Cardinalidad (uno / muchos)</text>
+</g>
+</svg>
